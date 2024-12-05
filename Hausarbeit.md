@@ -10,8 +10,6 @@
 
 ## Die Entwicklung der Integrierten Schaltkreise 
 
-## mobile Endgheräte
-
 ## Zusammenfassung
 
 ## Literatur
